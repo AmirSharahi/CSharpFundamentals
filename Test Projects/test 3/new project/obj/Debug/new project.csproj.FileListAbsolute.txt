@@ -1,0 +1,10 @@
+E:\test projects\test 3\new project\bin\Debug\new project.exe.config
+E:\test projects\test 3\new project\bin\Debug\new project.exe
+E:\test projects\test 3\new project\bin\Debug\new project.pdb
+E:\test projects\test 3\new project\obj\Debug\new project.csproj.AssemblyReference.cache
+E:\test projects\test 3\new project\obj\Debug\new project.csproj.SuggestedBindingRedirects.cache
+E:\test projects\test 3\new project\obj\Debug\new_project.Properties.Resources.resources
+E:\test projects\test 3\new project\obj\Debug\new project.csproj.GenerateResource.cache
+E:\test projects\test 3\new project\obj\Debug\new project.csproj.CoreCompileInputs.cache
+E:\test projects\test 3\new project\obj\Debug\new project.exe
+E:\test projects\test 3\new project\obj\Debug\new project.pdb

@@ -1,0 +1,14 @@
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.AssemblyInfoInputs.cache
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.AssemblyInfo.cs
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.csproj.CoreCompileInputs.cache
+E:\mosh projects\test 1\index\test 1\bin\Debug\net6.0\test 1.exe
+E:\mosh projects\test 1\index\test 1\bin\Debug\net6.0\test 1.deps.json
+E:\mosh projects\test 1\index\test 1\bin\Debug\net6.0\test 1.runtimeconfig.json
+E:\mosh projects\test 1\index\test 1\bin\Debug\net6.0\test 1.dll
+E:\mosh projects\test 1\index\test 1\bin\Debug\net6.0\ref\test 1.dll
+E:\mosh projects\test 1\index\test 1\bin\Debug\net6.0\test 1.pdb
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.dll
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\ref\test 1.dll
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.pdb
+E:\mosh projects\test 1\index\test 1\obj\Debug\net6.0\test 1.genruntimeconfig.cache
